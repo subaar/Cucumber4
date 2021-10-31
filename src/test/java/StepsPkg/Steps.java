@@ -26,6 +26,9 @@ public class Steps {
 	public void all_cards_are_displayed() throws Throwable {
 		System.out.println("four");
 		System.out.println("five");
+		System.out.println("six");
+		System.out.println("seven");
+		
 
 	}
 
