@@ -7,4 +7,3 @@ Then homepage is displayed
 And all cards are displayed
 test1
 test2
-test3
