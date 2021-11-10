@@ -6,6 +6,8 @@ Given User is on netbanking login page
 test4 added from github
 When user logs in with valid un and pw
 Then homepage is displayed
+test7
+test8
 Then homepage is displayed
 And all cards are displayed
 test1
