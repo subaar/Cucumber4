@@ -5,3 +5,5 @@ When user logs in with valid un and pw
 Then homepage is displayed
 Then homepage is displayed
 And all cards are displayed
+test1
+test2
